@@ -5,6 +5,8 @@
 - https://github.com/Yunloop-Dev/Inori
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yunloop-Dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Yunloop-Dev)](https://github.com/ryo-ma/github-profile-trophy)
 
