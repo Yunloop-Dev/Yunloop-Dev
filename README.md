@@ -1,4 +1,4 @@
-# Hi there, I'm Yunloop![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
+# Hi there, I'm Yunloop!<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 ### I am striving to become a full stack developer
 
 - 🔭 I’m currently working on 
