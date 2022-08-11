@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on 
 - https://github.com/Yunloop-Dev/Inori
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yunloop-Dev&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yunloop-Dev&theme=solarized_dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yunloop-Dev&layout=compact)
 
