@@ -3,7 +3,7 @@
 
 
 
- <a aligh="left" href="mailto:yunloop@vk.ru" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://www.twitch.tv/yunloop_dev" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/twitch.svg" alt="Twitch" width="22" height="22" /></a>  
+ <a aligh="left" href="mailto:yunloop@vk.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://www.twitch.tv/yunloop_dev" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/twitch.svg" alt="Twitch" width="22" height="22" /></a>  
 
 ⚐ Based in Moscow
 
